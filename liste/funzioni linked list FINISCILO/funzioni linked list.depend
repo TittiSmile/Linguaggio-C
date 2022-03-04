@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1559839709 source:c:\users\admin titti\desktop\funzioni linked list\2liste.c
+
+1559840218 source:c:\users\admin titti\desktop\funzioni linked list\basic.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"basic.h"
+
+1559839791 source:c:\users\admin titti\desktop\funzioni linked list\listasuk.c
+
+1559840784 source:c:\users\admin titti\desktop\funzioni linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"basic.h"
+	"SuDueListe.h"
+	"listaSuK.h"
+	"ordinamento.h"
+	"other.h"
+	"structStudente.h"
+	"linkedToDoubly.h"
+
+1559840778 source:c:\users\admin titti\desktop\funzioni linked list\ordinamento.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"basic.h"
+	"SuDueListe.h"
+	"listaSuK.h"
+	"ordinamento.h"
+	"other.h"
+	"structStudente.h"
+	"linkedToDoubly.h"
+
+1559839904 source:c:\users\admin titti\desktop\funzioni linked list\other.c
+
+1559840061 source:c:\users\admin titti\desktop\funzioni linked list\structstudente.c
+
+1559840724 c:\users\admin titti\desktop\funzioni linked list\basic.h
+
+1559840514 source:c:\users\admin titti\desktop\funzioni linked list\sudueliste.c
+
+1559840539 c:\users\admin titti\desktop\funzioni linked list\sudueliste.h
+	"basic.h"
+
+1559840276 c:\users\admin titti\desktop\funzioni linked list\listasuk.h
+	"basic.h"
+
+1559840276 c:\users\admin titti\desktop\funzioni linked list\ordinamento.h
+	"basic.h"
+
+1559840276 c:\users\admin titti\desktop\funzioni linked list\other.h
+	"basic.h"
+
+1559840089 c:\users\admin titti\desktop\funzioni linked list\structstudente.h
+
+1559840008 c:\users\admin titti\desktop\funzioni linked list\linkedtodoubly.h
+

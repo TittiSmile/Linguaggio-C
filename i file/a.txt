@@ -1,0 +1,8 @@
+7
+Pinco Panco 1900 10 
+Panco Pinco 1901 2
+Lurina Misscappa 1817 8
+Gina Scorre 1512 2 
+Steve Jobs 1000 0
+Bill Gates 1718 0
+Linus Torvalds 1968 21

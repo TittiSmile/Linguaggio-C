@@ -1,0 +1,4 @@
+il primo numero letto da file e': 43
+il secondo numero letto da file e': 3
+la somma e': 46 
+la differenza e': 40 
